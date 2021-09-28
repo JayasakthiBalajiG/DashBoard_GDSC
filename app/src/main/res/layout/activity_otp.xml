@@ -65,7 +65,6 @@
             android:inputType="numberPassword"
             app:layout_constraintBottom_toTopOf="@+id/VerifyOtp"
             android:textCursorDrawable="@null"
-            android:textColor="@color/purple_700"
             android:backgroundTint="@android:color/holo_purple"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
